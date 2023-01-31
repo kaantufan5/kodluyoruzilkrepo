@@ -30,6 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://opensource.org/licenses/MIT)
 
+![Screenshot_1](https://user-images.githubusercontent.com/46603841/215804203-29691f2f-eef9-46ea-80b4-1fad89e1550b.png)
 
 
 
